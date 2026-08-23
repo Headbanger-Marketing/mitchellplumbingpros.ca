@@ -1,2 +1,25 @@
 # Mitchell Plumbing Pros
-HVAC services in Ontario.
+
+> Mitchell Plumbing Pros is a local HVAC company serving Mitchell, Perth, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (519) 348-4027  |  Email: contact@mitchellplumbingpros.ca  |  Website: https://mitchellplumbingpros.ca
+
+## Key pages
+
+- [Home](https://mitchellplumbingpros.ca/): Mitchell Plumbing Pros homepage with service overview and FAQ
+- [About](https://mitchellplumbingpros.ca/about/): About the company and service area
+- [Contact](https://mitchellplumbingpros.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Water Heaters](https://mitchellplumbingpros.ca/services/water-heaters/): Water Heaters in Mitchell, Ontario
+- [Drain Cleaning](https://mitchellplumbingpros.ca/services/drain-cleaning/): Drain Cleaning in Mitchell, Ontario
+- [Repiping](https://mitchellplumbingpros.ca/services/repiping/): Repiping in Mitchell, Ontario
+- [Fixtures & Toilets](https://mitchellplumbingpros.ca/services/fixtures-toilets/): Fixtures & Toilets in Mitchell, Ontario
+- [Leak Detection & Repair](https://mitchellplumbingpros.ca/services/leak-detection/): Leak Detection & Repair in Mitchell, Ontario
+- [Sump Pumps & Backwater](https://mitchellplumbingpros.ca/services/sump-pumps/): Sump Pumps & Backwater in Mitchell, Ontario
+- [Water Softeners & Filtration](https://mitchellplumbingpros.ca/services/water-softeners/): Water Softeners & Filtration in Mitchell, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Mitchell are answered on the homepage.
